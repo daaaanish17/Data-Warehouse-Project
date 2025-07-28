@@ -13,5 +13,6 @@ This project involves:
 - Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
+
 **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 
