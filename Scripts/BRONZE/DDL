@@ -1,4 +1,6 @@
 
+/* This script creates tables in the 'bronze' schema */
+
 IF OBJECT_ID('bronze_layer.crm_cust_info','U') IS NOT NULL
 	DROP TABLE bronze_layer.crm_cust_info;
 
